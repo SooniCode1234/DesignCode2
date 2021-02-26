@@ -13,6 +13,7 @@
 		CD0C11A925D6C290002DFB4A /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CD0C11A825D6C290002DFB4A /* Preview Assets.xcassets */; };
 		CDCAEB8F25E7459D007F32C0 /* MenuView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDCAEB8E25E7459D007F32C0 /* MenuView.swift */; };
 		CDCF212225E859E6003C6E56 /* Home.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDCF212125E859E6003C6E56 /* Home.swift */; };
+		CDCF214225E898E2003C6E56 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDCF214125E898E2003C6E56 /* HomeView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		CD0C11AA25D6C290002DFB4A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		CDCAEB8E25E7459D007F32C0 /* MenuView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuView.swift; sourceTree = "<group>"; };
 		CDCF212125E859E6003C6E56 /* Home.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Home.swift; sourceTree = "<group>"; };
+		CDCF214125E898E2003C6E56 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				CD0C11A325D6C28E002DFB4A /* ContentView.swift */,
 				CDCAEB8E25E7459D007F32C0 /* MenuView.swift */,
 				CDCF212125E859E6003C6E56 /* Home.swift */,
+				CDCF214125E898E2003C6E56 /* HomeView.swift */,
 				CD0C11A525D6C290002DFB4A /* Assets.xcassets */,
 				CD0C11AA25D6C290002DFB4A /* Info.plist */,
 				CD0C11A725D6C290002DFB4A /* Preview Content */,
@@ -147,6 +150,7 @@
 				CD0C11A425D6C28E002DFB4A /* ContentView.swift in Sources */,
 				CDCAEB8F25E7459D007F32C0 /* MenuView.swift in Sources */,
 				CDCF212225E859E6003C6E56 /* Home.swift in Sources */,
+				CDCF214225E898E2003C6E56 /* HomeView.swift in Sources */,
 				CD0C11A225D6C28E002DFB4A /* DesignCode2App.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
