@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		CD025E1E25EEBC6000E6CBDB /* UpdateDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD025E1D25EEBC6000E6CBDB /* UpdateDetail.swift */; };
 		CD08F17F25EDB3FF00A85A4F /* UpdateList.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD08F17E25EDB3FF00A85A4F /* UpdateList.swift */; };
 		CD0C11A225D6C28E002DFB4A /* DesignCode2App.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD0C11A125D6C28E002DFB4A /* DesignCode2App.swift */; };
 		CD0C11A425D6C28E002DFB4A /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD0C11A325D6C28E002DFB4A /* ContentView.swift */; };
@@ -18,6 +19,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		CD025E1D25EEBC6000E6CBDB /* UpdateDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UpdateDetail.swift; sourceTree = "<group>"; };
 		CD08F17E25EDB3FF00A85A4F /* UpdateList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UpdateList.swift; sourceTree = "<group>"; };
 		CD0C119E25D6C28E002DFB4A /* DesignCode2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DesignCode2.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CD0C11A125D6C28E002DFB4A /* DesignCode2App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DesignCode2App.swift; sourceTree = "<group>"; };
@@ -64,6 +66,7 @@
 				CD0C11A325D6C28E002DFB4A /* ContentView.swift */,
 				CDCAEB8E25E7459D007F32C0 /* MenuView.swift */,
 				CD08F17E25EDB3FF00A85A4F /* UpdateList.swift */,
+				CD025E1D25EEBC6000E6CBDB /* UpdateDetail.swift */,
 				CDCF212125E859E6003C6E56 /* Home.swift */,
 				CDCF214125E898E2003C6E56 /* HomeView.swift */,
 				CD0C11A525D6C290002DFB4A /* Assets.xcassets */,
@@ -150,6 +153,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CD025E1E25EEBC6000E6CBDB /* UpdateDetail.swift in Sources */,
 				CD0C11A425D6C28E002DFB4A /* ContentView.swift in Sources */,
 				CDCAEB8F25E7459D007F32C0 /* MenuView.swift in Sources */,
 				CD08F17F25EDB3FF00A85A4F /* UpdateList.swift in Sources */,
