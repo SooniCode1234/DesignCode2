@@ -13,6 +13,7 @@
 		CD0C11A425D6C28E002DFB4A /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD0C11A325D6C28E002DFB4A /* ContentView.swift */; };
 		CD0C11A625D6C290002DFB4A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CD0C11A525D6C290002DFB4A /* Assets.xcassets */; };
 		CD0C11A925D6C290002DFB4A /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CD0C11A825D6C290002DFB4A /* Preview Assets.xcassets */; };
+		CDB6A57E25EEDFD800E6BB24 /* UpdateStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDB6A57D25EEDFD800E6BB24 /* UpdateStore.swift */; };
 		CDCAEB8F25E7459D007F32C0 /* MenuView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDCAEB8E25E7459D007F32C0 /* MenuView.swift */; };
 		CDCF212225E859E6003C6E56 /* Home.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDCF212125E859E6003C6E56 /* Home.swift */; };
 		CDCF214225E898E2003C6E56 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDCF214125E898E2003C6E56 /* HomeView.swift */; };
@@ -27,6 +28,7 @@
 		CD0C11A525D6C290002DFB4A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CD0C11A825D6C290002DFB4A /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		CD0C11AA25D6C290002DFB4A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CDB6A57D25EEDFD800E6BB24 /* UpdateStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UpdateStore.swift; sourceTree = "<group>"; };
 		CDCAEB8E25E7459D007F32C0 /* MenuView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuView.swift; sourceTree = "<group>"; };
 		CDCF212125E859E6003C6E56 /* Home.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Home.swift; sourceTree = "<group>"; };
 		CDCF214125E898E2003C6E56 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
@@ -67,6 +69,7 @@
 				CDCAEB8E25E7459D007F32C0 /* MenuView.swift */,
 				CD08F17E25EDB3FF00A85A4F /* UpdateList.swift */,
 				CD025E1D25EEBC6000E6CBDB /* UpdateDetail.swift */,
+				CDB6A57D25EEDFD800E6BB24 /* UpdateStore.swift */,
 				CDCF212125E859E6003C6E56 /* Home.swift */,
 				CDCF214125E898E2003C6E56 /* HomeView.swift */,
 				CD0C11A525D6C290002DFB4A /* Assets.xcassets */,
@@ -157,6 +160,7 @@
 				CD0C11A425D6C28E002DFB4A /* ContentView.swift in Sources */,
 				CDCAEB8F25E7459D007F32C0 /* MenuView.swift in Sources */,
 				CD08F17F25EDB3FF00A85A4F /* UpdateList.swift in Sources */,
+				CDB6A57E25EEDFD800E6BB24 /* UpdateStore.swift in Sources */,
 				CDCF212225E859E6003C6E56 /* Home.swift in Sources */,
 				CDCF214225E898E2003C6E56 /* HomeView.swift in Sources */,
 				CD0C11A225D6C28E002DFB4A /* DesignCode2App.swift in Sources */,
